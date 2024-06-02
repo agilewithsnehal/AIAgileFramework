@@ -2,7 +2,7 @@
 
 Welcome to the AI-Agility Framework Notes Repository! This repository is a collaborative space for collecting and organizing notes, insights, and documentation related to the AI-Agility Framework. Our goal is to compile a comprehensive set of resources that will help enhance Agile practices using AI-driven tools and methodologies.
 
-Visit our official website: [AI-Agility Framework](http://aiagility.org/aiagileframework)
+Visit our official website: [AI-Agility Framework](https://www.aiagility.org/aiagileframework)
 
 ## Overview
 
