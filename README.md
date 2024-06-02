@@ -4,6 +4,9 @@ Welcome to the AI-Agility Framework Notes Repository! This repository is a colla
 
 Visit our official website: [AI-Agility Framework](https://www.aiagility.org/aiagileframework)
 
+![image](https://github.com/agilewithsnehal/AIAgileFramework/assets/121130818/cc4c028d-08d5-4bee-9386-15fb1edee32d)
+
+
 ## Overview
 
 The AI-Agility Framework aims to integrate artificial intelligence into Agile workflows to optimize software development processes. This repository serves as a central hub for all documentation, notes, and discussions about the framework.
